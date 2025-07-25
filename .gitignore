@@ -44,3 +44,6 @@ Thumbs.db
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
+
+# Ignore scraper output folder
+output/
